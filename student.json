@@ -40,12 +40,6 @@
       },
         
         
-        {
-            "name":   "Pournima Parase",
-            "Branch":    "IT",
-            "Fav_Subject": "Maths",
-            "Hobby"  :  "Reading"
-        },
         
 
     {
@@ -384,6 +378,14 @@
         "Fav_Subject":   " DBMS ",
         "Hobby"      :   " Painting "
     },
+         {
+        "name":       "Rutuja More",
+        "Branch":      "Electrical",
+        "Fav_Subject":   "Graphics",
+        "Hobby"      :   "exploring new things"
+    },
+        
+        
 
 
 ]
